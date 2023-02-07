@@ -1,0 +1,28 @@
+p, a {
+    color: green;
+}
+li{
+    list-style-type: none;
+}
+.special{
+    color: orange;
+    font-weight: bold;
+}
+
+li em{
+    color: aquamarine;
+}
+a:hover{
+    color: darkblue;
+    text-decoration: none;
+}
+#heading{
+    color: rebeccapurple;
+    background-color: black;
+}
+#one{
+    color: brown;
+}
+*{
+    background-color: aqua;
+}
